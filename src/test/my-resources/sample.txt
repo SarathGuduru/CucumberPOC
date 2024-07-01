@@ -1,0 +1,4 @@
+@BeforeTest   - Executed before any @Test method [Will be called only ONCE]
+@BeforeTest   - Executed once before the execution of all methods in all classes within test tag.
+@BeforeMethod - Executed before each @Test method [Will be called before each @Test method]
+@BeforeClass  - Executed once before the execution of all methods within the class it is defined.

@@ -1,0 +1,30 @@
+Intellij + Maven + Cucumber + TestNG  - https://www.youtube.com/watch?v=DtSYzJtjfXQ
+
+mvn test -Dcucumber.filter.tags="@tagname"
+
+
+To-Do
+-----
+Explicit Wait
+isElementPresent
+Click
+Select
+Double-click
+GetFrames
+Switch To Frame
+Switch To Window
+Upload
+Download
+Drag and Drop
+Highlight
+Enter Text
+
+
+Xls Reading
+Screen-shot
+Extent Reports
+Logging
+
+
+
+
