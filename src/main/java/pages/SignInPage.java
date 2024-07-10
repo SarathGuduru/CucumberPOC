@@ -39,7 +39,7 @@ public class SignInPage extends BasePage{
     }
 
     public void enterPassword(){
-        driver.findElement(password_edit).sendKeys("Greatpk12#");
+        driver.findElement(password_edit).sendKeys("xxxxxxx");
     }
 
     public void clickSignInBtn(){
