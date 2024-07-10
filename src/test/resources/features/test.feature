@@ -9,7 +9,7 @@ Background: Launch zoho application
 Scenario: First scenario for POC
   When I click on SignIn link
   Then verify that SignIn page is displayed
-  And I enter 'sg0863@gmail.com' and click on Next button
+  And I enter 'xxxxx@gmail.com' and click on Next button
   And I enter password and click on Next button
   Then I click on SignIn button
 
